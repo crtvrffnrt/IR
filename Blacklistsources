@@ -3,3 +3,11 @@ https://check.torproject.org/torbulkexitlist?
 https://gist.githubusercontent.com/gnremy/c546c7911d5f876f263309d7161a7217/raw/3a61de8f5d9e74efdffa05cf0bf793e7ca6409bd/CVE-2021-44228_IPs.csv
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 http://api.blocklist.de/getlast.php?time=time1:00
+https://threatview.io/Downloads/IP-High-Confidence-Feed.txt
+https://threatview.io/Downloads/High-Confidence-CobaltStrike-C2%20-Feeds.txt 
+https://threatview.io/Downloads/Experimental-IOC-Tweets.txt
+http://www.talosintelligence.com/documents/ip-blacklist
+https://lists.blocklist.de/lists/bruteforcelogin.txt
+https://lists.blocklist.de/lists/bots.txt
+https://github.com/stamparm/ipsum/blob/master/levels/5.txt
+http://reputation.alienvault.com/reputation.data 
