@@ -1,4 +1,8 @@
 IP Blacklistsources
+
+
+Top selection of current Blacklist (sum less then 10.000)
+
 https://check.torproject.org/torbulkexitlist?
 https://gist.githubusercontent.com/gnremy/c546c7911d5f876f263309d7161a7217/raw/3a61de8f5d9e74efdffa05cf0bf793e7ca6409bd/CVE-2021-44228_IPs.csv
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
@@ -14,3 +18,9 @@ http://reputation.alienvault.com/reputation.data
 https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt
 https://www.binarydefense.com/banlist.txt
 https://danger.rulez.sk/projects/bruteforceblocker/blist.php
+https://github.com/firehol/blocklist-ipsets/blob/master/bambenek_ramnit.ipset
+https://iplists.firehol.org/files/firehol_webclient.netset 
+https://github.com/firehol/blocklist-ipsets/blob/master/et_compromised.ipset
+
+// Other Sources for more Blacklists
+https://github.com/firehol/blocklist-ipsets
