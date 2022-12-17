@@ -21,6 +21,7 @@ https://danger.rulez.sk/projects/bruteforceblocker/blist.php
 https://github.com/firehol/blocklist-ipsets/blob/master/bambenek_ramnit.ipset
 https://iplists.firehol.org/files/firehol_webclient.netset 
 https://github.com/firehol/blocklist-ipsets/blob/master/et_compromised.ipset
+https://osint.digitalside.it/Threat-Intel/lists/latestips.txt
 
 // Other Sources for more Blacklists
 https://github.com/firehol/blocklist-ipsets
