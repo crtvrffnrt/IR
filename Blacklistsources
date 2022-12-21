@@ -10,6 +10,7 @@ http://api.blocklist.de/getlast.php?time=time1:00
 https://threatview.io/Downloads/IP-High-Confidence-Feed.txt
 https://threatview.io/Downloads/High-Confidence-CobaltStrike-C2%20-Feeds.txt 
 https://threatview.io/Downloads/Experimental-IOC-Tweets.txt
+https://threatfox.abuse.ch/export/csv/ip-port/recent/
 http://www.talosintelligence.com/documents/ip-blacklist
 https://lists.blocklist.de/lists/bruteforcelogin.txt
 https://lists.blocklist.de/lists/bots.txt
